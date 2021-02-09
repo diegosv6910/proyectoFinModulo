@@ -18,7 +18,7 @@ link2.setAttribute('href', 'https://app.bedu.org/favicon.ico');
 link3.setAttribute('rel', 'stylesheet');
 link3.setAttribute('href', 'https://fonts.googleapis.com/css?family=Nunito:400,700');
 link4.setAttribute('rel', 'stylesheet prefetch');
-link4.setAttribute('href', 'http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css');
+link4.setAttribute('href', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css');
 link5.setAttribute('rel', 'stylesheet prefetch');
 link5.setAttribute('href', 'https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css');
 div1.setAttribute('class', 'container');
